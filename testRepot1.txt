@@ -1,0 +1,3 @@
+17/06/17
+
+This is the first file created empty with touch command on bash cmd.
